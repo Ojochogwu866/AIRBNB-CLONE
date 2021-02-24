@@ -1,3 +1,6 @@
+THIS PROJECT IS A SKILL BASED TEST CHALLENGE BUILD OF THE AIRBNB WEBSITE A CLONE.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
